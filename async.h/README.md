@@ -1,6 +1,6 @@
 # async.h
 
-[async.h](git@github.com:naasking/async.h.git)
+[async.h](https://github.com/naasking/async.h)
 
 ```
 mulle-sde dependency add --scm git --github naasking async.h
