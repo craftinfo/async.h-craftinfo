@@ -124,7 +124,6 @@ main()
    local KITCHEN_DIR="kitchen"
    # PWD should be your downloaded project in stash  e.g. stash/foobar
 
-   set -x
    while [ "$#" -ne 0 ]
    do
       if options_technical_flags "$1"
